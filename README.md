@@ -1,5 +1,5 @@
 # CTCSS-tone-encoder
-Code created to implement a CTCSS tone encoder board into a Yaesu radio as part of a Electronics Technician internship position
+Code created to implement a CTCSS tone encoder board into a amateur Yaesu radio
 
 Code was created to run on a PIC16 chip
 
